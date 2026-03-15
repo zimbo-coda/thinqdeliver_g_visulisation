@@ -1,0 +1,19 @@
+{
+  "$schema": "https://raw.githubusercontent.com/grafana/grafana/main/docs/sources/developers/plugins/plugin.schema.json",
+  "type": "panel",
+  "name": "ThinqDeliver Visualizer",
+  "id": "thinqdeliver-questionviz-panel-v2",
+  "info": {
+    "description": "Renders NEMO form questions as pie/bar/stats/response list based on question_type.",
+    "author": {
+      "name": "ThinqDeliver"
+    },
+    "keywords": ["nemo", "forms", "survey", "pie", "bar"],
+    "version": "0.3.0",
+    "updated": "2026-03-15"
+  },
+  "dependencies": {
+    "grafanaDependency": ">=10.0.0",
+    "plugins": []
+  }
+}
