@@ -63,7 +63,7 @@
     "webpack-virtual-modules": "^0.6.2"
   },
   "engines": {
-    "node": ">=22"
+    "node": ">=18"
   },
   "dependencies": {
     "@emotion/css": "11.10.6",
@@ -72,9 +72,9 @@
     "@grafana/runtime": "^12.4.0",
     "@grafana/schema": "^12.4.0",
     "@grafana/ui": "^12.4.0",
-    "maplibre-gl": "^5.20.1",
-    "react": "^18.3.0",
-    "react-dom": "^18.3.0"
+    "maplibre-gl": "^4.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "packageManager": "npm@10.8.2"
 }
